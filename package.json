@@ -1,0 +1,23 @@
+{
+  "name": "DataStructureJavascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ll.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IbrahimSwaiss/DataStructureJavascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IbrahimSwaiss/DataStructureJavascript/issues"
+  },
+  "homepage": "https://github.com/IbrahimSwaiss/DataStructureJavascript#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
